@@ -1,0 +1,1 @@
+Criação de alunos cadastrados, criação de matéria, horário, professor e notas. 
